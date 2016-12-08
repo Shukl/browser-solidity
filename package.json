@@ -55,6 +55,7 @@
     "nightwatch": "^0.9.3",
     "solc": "https://github.com/ethereum/solc-js",
     "standard": "^8.5.0",
+    "swarmgw": "^0.1.0",
     "tape": "^4.5.1",
     "web3": "https://github.com/ethereum/web3.js#35bcace7173fda742ddb1bba84c8a70f0fa849e0",
     "webworkify": "^1.2.1",
